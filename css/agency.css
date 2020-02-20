@@ -107,6 +107,20 @@ img::-moz-selection {
   box-shadow: 0 0 0 0.2rem rgba(254, 209, 55, 0.5) !important;
 }
 
+.btn-primary2 {
+  background-color: #fed136;
+  border-color: #fed136;
+}
+
+.btn-primary2:active, .btn-primary2:focus, .btn-primary2:hover {
+  background-color: #fec810 !important;
+  border-color: #fec810 !important;
+  color: white;
+}
+
+.btn-primary2:active, .btn-primary2:focus {
+  box-shadow: 0 0 0 0.2rem rgba(254, 209, 55, 0.5) !important;
+}
 #mainNav {
   background-color: #212529;
 }
