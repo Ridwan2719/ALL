@@ -108,13 +108,14 @@ img::-moz-selection {
 }
 
 .btn-primary2 {
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #0000FF;
+  border-color: #0000FF;
+  
 }
 
 .btn-primary2:active, .btn-primary2:focus, .btn-primary2:hover {
-  background-color: #fec810 !important;
-  border-color: #fec810 !important;
+  background-color: #7FFFD4 !important;
+  border-color: #7FFFD4 !important;
   color: white;
 }
 
